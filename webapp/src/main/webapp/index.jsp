@@ -1,1 +1,4 @@
-Hello, World! GOT TO RUN AS FAR AS POSSIBLe
+<role rolename="manager-script"/>
+<role rolename="admin-gui"/>
+<user username="tomcat" password="tomcat" roles="manager-script,admin-gui"/>
+==================
