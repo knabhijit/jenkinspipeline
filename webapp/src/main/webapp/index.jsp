@@ -1,2 +1,1 @@
-SOA
-micro services
+2 at once yoo yooo 
